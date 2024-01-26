@@ -1,0 +1,34 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+#main-container {
+    border: 5px solid blue;
+    height: 300px;
+    width: 200px;
+    overflow: hidden;
+}
+
+#top-container {
+    border: 3px solid red;
+    height: 60%;
+    width: 90%;
+    margin: 10px;
+}
+
+#qr-code {
+    border: 1px solid green;
+    width: 125px;
+    height: 125px;
+    margin: 20px;
+}
+
+#bottom-container {
+    border: 1px solid yellow;
+    height: 40%;
+    width: 100%;
+}
