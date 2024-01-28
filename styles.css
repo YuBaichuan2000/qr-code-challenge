@@ -31,8 +31,9 @@ body {
 }
 
 #top-container {
-    height: 55%;
+    margin-top: 15px;
     width: 90%;
+    flex-basis: 55%;
 }
 
 #qr-code {
@@ -46,7 +47,7 @@ body {
 }
 
 #bottom-container {
-    height: 40%;
+    flex-basis: 45%;
     width: 100%;
 }
 
