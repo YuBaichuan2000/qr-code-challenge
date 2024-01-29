@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src="./images/Screenshot.png" alt="screenshot" width="500"/>
+<img src="images/Screenshot 2024-01-29 at 12.20.04.png" alt="screenshot" width="500"/>
 
 ### Links
 
